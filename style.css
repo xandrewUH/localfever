@@ -1,0 +1,32 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.local-fever-background {
+  background: url('http://stunewslaguna.com/images/stories/editorial/july3E/LLP-SliDawg-Chew.jpg') no-repeat center center fixed;
+  height: 1000px;
+}
+
+.local-fever-footer-1-background {
+
+}
+
+.local-fever-footer-2-background {
+  margin-top: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  font-family: "Montserrat","HelveticaNeue","Helvetica Neue",sans-serif;
+  font-weight: 700;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.4;
+  text-rendering: optimizeLegibility;
+}
+
+v {
+  display:inline-block;
+}
